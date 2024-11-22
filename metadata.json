@@ -1,7 +1,8 @@
 {
-    "name": "Semper Augustus #3",
+    "name": "Semper Augustus #1",
     "description": "The most valuable tulip in Dutch history",
-    "image": "https://raw.githubusercontent.com/YOUR_USERNAME/tulipmania/main/images/tulip.png",
+    "image": "https://raw.githubusercontent.com/vergeten/tulipmania/main/tulip.png",
+    "external_url": "https://github.com/vergeten/tulipmania",
     "attributes": [
         {
             "trait_type": "Variety",
