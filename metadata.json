@@ -1,0 +1,19 @@
+{
+    "name": "Semper Augustus #3",
+    "description": "The most valuable tulip in Dutch history",
+    "image": "https://raw.githubusercontent.com/YOUR_USERNAME/tulipmania/main/images/tulip.png",
+    "attributes": [
+        {
+            "trait_type": "Variety",
+            "value": "Semper Augustus"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Historical Value",
+            "value": "4600 florins"
+        }
+    ]
+}
